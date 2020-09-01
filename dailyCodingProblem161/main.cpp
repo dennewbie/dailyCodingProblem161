@@ -8,7 +8,6 @@
 
 /*
     Daily Coding Problem 161 - Level: Easy
-
     This problem was asked by Facebook.
 
     Given a 32-bit integer, return the number with its bits reversed.
